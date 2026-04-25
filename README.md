@@ -52,7 +52,10 @@ Open 6 separate terminals and run each node:
 ```powershell
 .\node.exe A.conf
 .\node.exe B.conf
-... (up to F)
+.\node.exe C.conf
+.\node.exe D.conf
+.\node.exe E.conf
+.\node.exe F.conf
 ```
 - Type `table` in any console to view the routing table.
 - Type `send <Dest> <Msg>` to simulate packet forwarding.
