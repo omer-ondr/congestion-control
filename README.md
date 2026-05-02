@@ -1,5 +1,7 @@
 # CSE 320 — Computer Networks: TCP Congestion Control & Routing Simulation
 
+**GitHub Repository:** [https://github.com/omer-ondr/congestion-control](https://github.com/omer-ondr/congestion-control)
+
 ## 1. Team Members & Roles
 
 This project was developed collaboratively by the following team members:
